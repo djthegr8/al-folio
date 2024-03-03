@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dweepj23.github.io/portf//sitemap.xml
+Sitemap: https://dweepj23.github.io/sitemap.xml
